@@ -1,1 +1,2 @@
 hello GitHub
+It is a part DevOps hackthon
